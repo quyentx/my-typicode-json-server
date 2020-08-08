@@ -1,6 +1,6 @@
 {
   "employee": [
-    { "id": 1, "name": "John Doe", "role": "Manager", "age": 30}
+    { "id": 1, "name": "John Doe", "role": "Manager", "age": 30, "species": "human"}
   ],
   "salary": [
     { "id": 1, "name": "John Delaware", "salary": 100000 }
